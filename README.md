@@ -11,7 +11,7 @@
 
 ---
 
-## Why this repository exists
+## Why this repository exists?!
 
 The AI market (2025–2026) is no longer blocked by models.
 It is blocked by **platform engineering, reliability, security and cost control**.
