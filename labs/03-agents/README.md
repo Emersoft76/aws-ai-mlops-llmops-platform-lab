@@ -17,14 +17,13 @@ with **clear limits and observability**.
 
 ## 🏗️ Reference Flow
 
-```text
 User Request
  → Planner (LLM)
  → Decide Next Action
  → Tool Execution
  → Observe Result
  → Continue or Stop
-```
+
 ---
 
 ## 🧪 Lab Missions
