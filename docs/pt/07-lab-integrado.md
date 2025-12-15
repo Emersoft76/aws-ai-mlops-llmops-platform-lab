@@ -73,4 +73,5 @@ User
 ✔ Mentalidade SRE aplicada à IA
 ✔ Domínio de riscos técnicos e financeiros
 ✔ Visão de plataforma (end-to-end)
+
 ---
