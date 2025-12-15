@@ -42,12 +42,10 @@ This project addresses exactly that gap.
 ## Authorship
 
 Author: Emerson Maciel
-
 Role: AWS Solutions Architect | Cloud & Network Engineer | GenAI / LLMOps Engineer
-
 Years: 2025–2026
 
-All content, architecture and labs are **original work**.
+* All content, architecture and labs are **original work**.
 
 ---
 
