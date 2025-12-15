@@ -67,3 +67,13 @@ User
 
 ---
 
+## 📄 Checklist Profissional
+
+✔ Entende RAG além do hype  
+✔ Controla custo por token  
+✔ Versiona prompts e embeddings  
+✔ Implementa fallback e cache  
+✔ Mede qualidade e latência  
+✔ Pensa em segurança e abuso  
+
+---
