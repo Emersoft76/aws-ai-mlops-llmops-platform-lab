@@ -1,4 +1,3 @@
-```markdown
 # Visão Geral — AWS GenAI LLMOps Platform Lab
 
 Este repositório foi criado para **ensinar e validar competências profissionais reais** em **IA Generativa aplicada à produção**, indo muito além de exemplos simples ou acadêmicos.
