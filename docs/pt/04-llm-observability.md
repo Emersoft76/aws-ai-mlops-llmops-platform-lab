@@ -67,6 +67,51 @@ Cada requisição deve registrar:
 
 ---
 
+## Dashboards Essenciais (GenAI)
+
+1️⃣ LLM Performance
+- Latência média / p95 / p99
+- Throughput
+
+2️⃣ Qualidade
+- Groundedness score
+- Factuality score
+- Human override rate
+
+3️⃣ Custos
+- Tokens por hora
+- Custo por request
+- Top consumidores
+
+4️⃣ Agentes
+- Ações por execução
+- Loops interrompidos
+- Falhas por ferramenta
+
+---
+
+## Runbook Básico — Incidente de IA
+
+1. Identificar impacto (qualidade, custo ou latência)
+2. Congelar versões de prompt/modelo
+3. Ativar fallback
+4. Reduzir contexto / top-k
+5. Comunicar stakeholders
+6. Post-mortem com métricas reais
+
+---
+
+## 📄 Checklist Profissional
+
+✔ Define SLIs e SLOs para IA  
+✔ Correlaciona custo com qualidade  
+✔ Observa além da infraestrutura  
+✔ Aplica SRE em GenAI  
+✔ Tem plano de resposta a incidentes  
+✔ Trata IA como sistema crítico  
+
+---
+
 ## 💼 O que este módulo valida no mercado
 - Mentalidade **SRE aplicada à IA**
 - Capacidade de operar LLMs em produção
