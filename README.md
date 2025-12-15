@@ -11,7 +11,7 @@
 
 ---
 
-## Why this repository exists?!
+## Why this repository exists?
 
 The AI market (2025–2026) is no longer blocked by models.
 It is blocked by **platform engineering, reliability, security and cost control**.
@@ -41,7 +41,7 @@ This project addresses exactly that gap.
 
 ## Authorship
 
-Author: <SEU NOME>  
+Author: Emerson Maciel 
 Role: AWS Solutions Architect | Cloud & Network Engineer | GenAI / LLMOps Engineer  
 Years: 2025–2026
 
