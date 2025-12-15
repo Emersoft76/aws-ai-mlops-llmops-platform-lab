@@ -5,5 +5,5 @@ Este módulo evolui o RAG básico para **ambientes reais**, introduzindo:
 - versionamento
 - avaliação
 - segurança
-```
+
 ---
